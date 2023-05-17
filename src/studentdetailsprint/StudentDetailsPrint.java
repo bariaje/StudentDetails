@@ -10,6 +10,7 @@ package studentdetailsprint;
  */
 //Example of arrayof objects
 import java.util.Scanner;
+ /** change wednesday **/
 public class StudentDetailsPrint {
 
     /**
